@@ -1,8 +1,8 @@
-for (var i=0; i>25; i++) {
+for (array=0; array>25; array++) {
   if (i===1){
-    console.log(`"I am ${i} strange loop."`);
+    console.log(`"I am ${array} strange loop."`);
   } else {
-    console.log(`"I am ${i} strange loops."`);
+    console.log(`"I am ${array} strange loops."`);
   }
 }
 
