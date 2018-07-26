@@ -10,8 +10,8 @@ function forLoop(array) {
 }
 
 
-// function whileLoop(n) {
-//   while (var i=n.length-1; i=0; i--) {
-//     console.log(i);
-//   }
-// }
+function whileLoop(n) {
+  while (var i=n.length-1; i=0; i--) {
+    console.log(i);
+  }
+}
